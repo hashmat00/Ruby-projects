@@ -63,7 +63,21 @@
     list-style: none;
 }
 
-footer ul li {
+.footer ul li {
     float: left;
     margin-left: 15px;
+}
+
+strong {
+    color: black;
+}
+
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+    
+}
+
+.description {
+    margin-top: 0;
 }
