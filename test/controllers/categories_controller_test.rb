@@ -26,6 +26,7 @@ class CategoriesControllerTest < ActionController::TestCase
     
     
     
+    
 end
 
 
